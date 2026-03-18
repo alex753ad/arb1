@@ -1,0 +1,8 @@
+{
+  "BNB/RIVER": {"tp": 1.5, "sl": -2.0},
+  "ETH/RIVER": {"tp": 1.5, "sl": -2.0},
+  "LINK/LTC": {"tp": 1.5, "sl": -2.0},
+  "LINK/UNI": {"tp": 1.5, "sl": -2.0},
+  "SOL/LTC": {"tp": 1.5, "sl": -2.0},
+  "SOL/RIVER": {"tp": 1.5, "sl": -2.0}
+}

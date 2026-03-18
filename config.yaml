@@ -1,0 +1,129 @@
+# ═══════════════════════════════════════════════════════
+# config.yaml — v41.3 TRADE-1: Калибровка TP/SL/Quality
+#
+# TRADE-1 FIX: Оптимизация на основе анализа 188 сделок:
+#   Проблема: WR=47.3%, payoff=0.92x, total=-23.14%
+#   Причины:
+#     SL (-2.0%) = -96.55% (53 сделки, 0% WR) — главный убыток
+#     Комиссия 0.345% x 188 = -64.79% — слишком много сделок
+#     TP=1.5% при slippage до 1.44% — маржа нулевая
+#     Q=50-60 убыточны (avg -0.30%), Q=80+ прибыльны (avg +2.99%)
+#   Изменения:
+#     [1] auto_sl_pct: -2.0 -> -2.5  (при -2.5 только 4 хита vs 13)
+#     [2] auto_tp_pct: 1.5 -> 2.0    (trail забирает среднюю часть)
+#     [3] trailing_activate_pct: 1.2 -> 1.0 (раньше защищаем прибыль)
+#     [4] trailing_drawdown_pct: 0.6 -> 0.5 (tighter trail)
+#     [5] min_quality: 60 -> 65       (отсекаем убыточный Q=50-60)
+#     [6] phase2_pnl_fallback: 1.5 -> 1.2 (раньше входим в Phase 2)
+#     [7] pair_loss_limit_pct: -2.0 -> -2.5 (синхронизация с SL)
+# ═══════════════════════════════════════════════════════
+
+strategy:
+  entry_z: 2.5
+  exit_z: 0.5
+  stop_z_offset: 2.0
+  min_stop_z: 4.0
+  # TRADE-1 [2]: 1.5 -> 2.0 (при slippage 0.3-1.4% маржа была нулевой)
+  take_profit_pct: 2.0
+  stop_loss_pct: -5.0
+  max_hold_hours: 8
+  micro_bt_max_bars: 6
+  min_hurst: 0.45
+  warn_hurst: 0.48
+  min_correlation: 0.20
+  hr_naked_threshold: 0.15
+  max_hr_threshold: 5.0
+  min_hr_threshold: 0.05
+  max_pvalue: 0.15
+  commission_pct: 0.10
+  slippage_pct: 0.05
+  bt_filter_mode: HARD
+  # Пункт 12a: uBT SKIP блокирует авто-вход (HARD/INFO)
+  ubt_filter_mode: HARD
+  adaptive_tp: true
+  short_only: false
+  entry_label_hard_block: true
+  entry_label_block_list: ['ЖДАТЬ']
+  entry_label_allow_manual: true
+  conviction_gate_enabled: true
+  conviction_gate_min: 0.5
+  use_hurst_ema_fallback: true
+
+scanner:
+  refresh_interval_min: 10
+  max_pairs_display: 50
+  max_halflife_hours: 28
+  # TRADE-1 [5]: 60 -> 65 (Q=50-60: 47 trades avg=-0.30%, Q=60-65: 52 trades avg=+0.18%)
+  min_quality: 65
+  timeframe: 4h
+  exchanges: ['bybit']
+  top_n_coins: 70
+  exchange: bybit
+  use_kalman: true
+
+monitor:
+  refresh_interval_sec: 60
+  # TRADE-1 [2]: TP 1.5 -> 2.0 (15 TP-сделок закрывались на пороге, trail забирает среднюю часть)
+  auto_tp_pct: 2.0
+  # TRADE-1 [1]: SL -2.0 -> -2.5 (при -2.0: 13 хитов, при -2.5: 4 хита, экономия ~18%)
+  auto_sl_pct: -2.5
+  pnl_stop_pct: -5.0
+  exit_z_target: 0.5
+  auto_exit_z: 0.3
+  auto_exit_z_mode: TRAIL
+  auto_exit_z_min_pnl: 0.6
+  # TRADE-1 [3]: 1.2 -> 1.0 (median best_pnl=0.894%, раньше захватываем trail)
+  trailing_activate_pct: 1.0
+  # TRADE-1 [4]: 0.6 -> 0.5 (avg trail drop при exit=0.53%, tighter сохраняет больше)
+  trailing_drawdown_pct: 0.5
+  # TRADE-1 [6]: 1.5 -> 1.2 (раньше Phase 2 trailing protection)
+  phase2_pnl_fallback: 1.2
+  phase2_hours_fallback: 6.0
+  z_trail_activate: 0.5
+  z_trail_drawdown: 0.3
+  phantom_track_hours: 12
+  entry_grace_minutes: 5
+  max_hold_hours: 8
+  pair_cooldown_hours: 4
+  # TRADE-1 [7]: -2.0 -> -2.5 (синхронизация с новым SL)
+  pair_loss_limit_pct: -2.5
+  daily_loss_limit_pct: -5.0
+  cooldown_after_sl_hours: 12
+  cooldown_after_2sl_hours: 12
+  cascade_sl_enabled: true
+  cascade_sl_window_hours: 2
+  cascade_sl_threshold: 3
+  cascade_sl_pause_hours: 1
+  # Пункт 10: HR drift пороги (было hardcoded 15%/20%)
+  hr_drift_warn_pct: 15      # ⚠️ предупреждение
+  hr_drift_critical_pct: 40  # 🚨 критический, рекомендация закрыть
+  max_positions: 10
+  max_coin_exposure: 4
+  max_coin_positions: 2
+
+position_sizing:
+  enabled: true
+  base_size: 100
+  max_multiplier: 2.0
+  min_size: 50
+  max_size: 250
+  signal_entry_bonus: 0.5
+  high_z_bonus: 0.3
+  bt_pass_bonus: 0.2
+  bt_fail_penalty: -0.5
+  good_volume_bonus: 0.2
+
+rally_filter:
+  warning_z: 2.0
+  block_z: 2.5
+  exit_z: 0.0
+  cooldown_bars: 2
+
+bybit:
+  enabled: true
+  # CONFIG-4 FIX: поле testnet удалено — bybit_executor всегда Demo Trading URL
+  api_key: "qEGujyEQ5sqZIQ8tJE"
+  api_secret: "NYwxDOem0ePqpCcJVFWZpDCpA5cNIGD11vuP"
+  default_size_usdt: 100
+  leverage: 1
+  auto_execute: true

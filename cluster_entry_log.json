@@ -1,0 +1,132 @@
+[
+  {
+    "pair": "AVAX/DASH",
+    "direction": "SHORT",
+    "time": "2026-02-28T21:01:21.803819+03:00"
+  },
+  {
+    "pair": "UNI/TRUMP",
+    "direction": "SHORT",
+    "time": "2026-02-28T21:22:27.375960+03:00"
+  },
+  {
+    "pair": "AVAX/DASH",
+    "direction": "SHORT",
+    "time": "2026-02-28T21:48:09.822259+03:00"
+  },
+  {
+    "pair": "LINK/AVAX",
+    "direction": "LONG",
+    "time": "2026-02-28T21:48:09.836668+03:00"
+  },
+  {
+    "pair": "LTC/ETC",
+    "direction": "SHORT",
+    "time": "2026-02-28T21:48:09.842448+03:00"
+  },
+  {
+    "pair": "NEAR/FIL",
+    "direction": "SHORT",
+    "time": "2026-02-28T22:16:56.439326+03:00"
+  },
+  {
+    "pair": "SOL/AVAX",
+    "direction": "LONG",
+    "time": "2026-02-28T22:46:00.090259+03:00"
+  },
+  {
+    "pair": "LTC/ETC",
+    "direction": "SHORT",
+    "time": "2026-02-28T22:46:00.103282+03:00"
+  },
+  {
+    "pair": "NEAR/FIL",
+    "direction": "SHORT",
+    "time": "2026-02-28T23:09:33.447246+03:00"
+  },
+  {
+    "pair": "SOL/AVAX",
+    "direction": "LONG",
+    "time": "2026-02-28T23:09:33.455380+03:00"
+  },
+  {
+    "pair": "AAVE/ZEC",
+    "direction": "SHORT",
+    "time": "2026-02-28T23:09:33.463584+03:00"
+  },
+  {
+    "pair": "LIT/MORPHO",
+    "direction": "SHORT",
+    "time": "2026-02-28T23:31:37.274620+03:00"
+  },
+  {
+    "pair": "LTC/AVAX",
+    "direction": "LONG",
+    "time": "2026-02-28T23:55:20.878329+03:00"
+  },
+  {
+    "pair": "SOL/LTC",
+    "direction": "SHORT",
+    "time": "2026-03-01T00:46:12.076780+03:00"
+  },
+  {
+    "pair": "XMR/DASH",
+    "direction": "LONG",
+    "time": "2026-03-01T02:20:44.097846+03:00"
+  },
+  {
+    "pair": "LTC/AVAX",
+    "direction": "LONG",
+    "time": "2026-03-01T03:24:02.434452+03:00"
+  },
+  {
+    "pair": "FIO/1000BONK",
+    "direction": "SHORT",
+    "time": "2026-03-01T04:05:45.987473+03:00"
+  },
+  {
+    "pair": "FIO/1000BONK",
+    "direction": "SHORT",
+    "time": "2026-03-01T04:26:12.353568+03:00"
+  },
+  {
+    "pair": "FIO/1000BONK",
+    "direction": "LONG",
+    "time": "2026-03-01T04:46:22.076541+03:00"
+  },
+  {
+    "pair": "ZEC/AAVE",
+    "direction": "LONG",
+    "time": "2026-03-01T05:06:22.173986+03:00"
+  },
+  {
+    "pair": "ZEC/AAVE",
+    "direction": "LONG",
+    "time": "2026-03-01T05:26:01.065063+03:00"
+  },
+  {
+    "pair": "SOL/AVAX",
+    "direction": "SHORT",
+    "time": "2026-03-01T05:26:01.073801+03:00"
+  },
+  {
+    "pair": "AAVE/TAO",
+    "direction": "SHORT",
+    "time": "2026-03-01T05:26:01.083333+03:00"
+  },
+  {
+    "pair": "SOL/AVAX",
+    "direction": "SHORT",
+    "time": "2026-03-01T06:28:04.297700+03:00"
+  },
+  {
+    "pair": "SOL/AVAX",
+    "direction": "SHORT",
+    "time": "2026-03-01T07:09:24.746258+03:00"
+  },
+  {
+    "pair": "LINK/NEAR",
+    "direction": "SHORT",
+    "time": "2026-03-01T08:58:14.825821+03:00"
+  }
+]

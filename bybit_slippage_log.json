@@ -1,0 +1,380 @@
+[
+  {
+    "pair": "ATOM/TIA",
+    "action": "OPEN",
+    "total_slippage": 0.0,
+    "latency_ms": 2432.7,
+    "fees": 0.02748,
+    "success": false,
+    "timestamp": "2026-03-08T12:44:40.730078+03:00"
+  },
+  {
+    "pair": "SUI/TON",
+    "action": "OPEN",
+    "total_slippage": 0.0,
+    "latency_ms": 2419.2,
+    "fees": 0,
+    "success": false,
+    "timestamp": "2026-03-08T13:00:50.751464+03:00"
+  },
+  {
+    "pair": "ADA/KITE",
+    "action": "OPEN",
+    "total_slippage": 0.1214,
+    "latency_ms": 2301.0,
+    "fees": 0.054937,
+    "success": true,
+    "timestamp": "2026-03-08T13:18:21.285497+03:00"
+  },
+  {
+    "pair": "ADA/KITE",
+    "action": "CLOSE",
+    "total_slippage": 0.2019,
+    "latency_ms": 0,
+    "fees": 0.054567,
+    "success": true,
+    "timestamp": "2026-03-08T13:34:22.354805+03:00"
+  },
+  {
+    "pair": "KITE/ADA",
+    "action": "OPEN",
+    "total_slippage": 0.0728,
+    "latency_ms": 2345.1,
+    "fees": 0.054829,
+    "success": true,
+    "timestamp": "2026-03-08T18:32:35.684575+03:00"
+  },
+  {
+    "pair": "KITE/ADA",
+    "action": "CLOSE",
+    "total_slippage": 0.043,
+    "latency_ms": 0,
+    "fees": 0.054848,
+    "success": true,
+    "timestamp": "2026-03-08T18:34:23.148730+03:00"
+  },
+  {
+    "pair": "ETH/XMR",
+    "action": "OPEN",
+    "total_slippage": 0.6204,
+    "latency_ms": 3071.6,
+    "fees": 0.043565,
+    "success": false,
+    "timestamp": "2026-03-09T10:45:47.629283+03:00"
+  },
+  {
+    "pair": "ETH/XMR",
+    "action": "CLOSE",
+    "total_slippage": 0.0126,
+    "latency_ms": 0,
+    "fees": 0.043816,
+    "success": true,
+    "timestamp": "2026-03-09T14:59:04.984090+03:00"
+  },
+  {
+    "pair": "DOT/UNI",
+    "action": "OPEN",
+    "total_slippage": 0.1742,
+    "latency_ms": 3053.5,
+    "fees": 0.027463,
+    "success": false,
+    "timestamp": "2026-03-10T22:51:48.580840+03:00"
+  },
+  {
+    "pair": "DOT/UNI",
+    "action": "CLOSE",
+    "total_slippage": 0.0,
+    "latency_ms": 0,
+    "fees": 0,
+    "success": false,
+    "timestamp": "2026-03-12T00:33:26.597128+03:00"
+  },
+  {
+    "pair": "LINK/LTC",
+    "action": "OPEN",
+    "total_slippage": 0.1286,
+    "latency_ms": 1735.1,
+    "fees": 0.054376,
+    "success": true,
+    "timestamp": "2026-03-12T14:42:28.671675+03:00"
+  },
+  {
+    "pair": "WLD/FIL",
+    "action": "OPEN",
+    "total_slippage": 0.0807,
+    "latency_ms": 2643.5,
+    "fees": 0.027457,
+    "success": false,
+    "timestamp": "2026-03-12T15:37:30.435532+03:00"
+  },
+  {
+    "pair": "WLD/CRV",
+    "action": "OPEN",
+    "total_slippage": 0.8493,
+    "latency_ms": 1909.4,
+    "fees": 0.054976,
+    "success": true,
+    "timestamp": "2026-03-12T22:32:05.006260+03:00"
+  },
+  {
+    "pair": "LINK/LTC",
+    "action": "CLOSE",
+    "total_slippage": 0.0627,
+    "latency_ms": 0,
+    "fees": 0.054136,
+    "success": true,
+    "timestamp": "2026-03-12T22:43:09.553572+03:00"
+  },
+  {
+    "pair": "WLD/APT",
+    "action": "CLOSE",
+    "total_slippage": 0.0,
+    "latency_ms": 0,
+    "fees": 0.027137,
+    "success": true,
+    "timestamp": "2026-03-13T00:45:53.941783+03:00"
+  },
+  {
+    "pair": "LINK/LTC",
+    "action": "OPEN",
+    "total_slippage": 1.4433,
+    "latency_ms": 1657.2,
+    "fees": 0.05444,
+    "success": true,
+    "timestamp": "2026-03-13T04:09:48.539157+03:00"
+  },
+  {
+    "pair": "WLD/CRV",
+    "action": "CLOSE",
+    "total_slippage": 0.0,
+    "latency_ms": 0,
+    "fees": 0.028227,
+    "success": true,
+    "timestamp": "2026-03-13T06:32:34.059271+03:00"
+  },
+  {
+    "pair": "XRP/ETC",
+    "action": "OPEN",
+    "total_slippage": 0.2353,
+    "latency_ms": 1706.8,
+    "fees": 0.054557,
+    "success": true,
+    "timestamp": "2026-03-13T09:53:05.287994+03:00"
+  },
+  {
+    "pair": "AXS/ETC",
+    "action": "OPEN",
+    "total_slippage": 0.0378,
+    "latency_ms": 1728.7,
+    "fees": 0.054655,
+    "success": true,
+    "timestamp": "2026-03-13T10:26:37.631115+03:00"
+  },
+  {
+    "pair": "SOL/BNB",
+    "action": "OPEN",
+    "total_slippage": 0.2921,
+    "latency_ms": 2663.3,
+    "fees": 0.050228,
+    "success": true,
+    "timestamp": "2026-03-13T12:03:34.655146+03:00"
+  },
+  {
+    "pair": "LINK/LTC",
+    "action": "CLOSE",
+    "total_slippage": 0.0868,
+    "latency_ms": 0,
+    "fees": 0.05429,
+    "success": true,
+    "timestamp": "2026-03-13T12:10:22.825258+03:00"
+  },
+  {
+    "pair": "ETH/RIVER",
+    "action": "OPEN",
+    "total_slippage": 0.424,
+    "latency_ms": 2387.2,
+    "fees": 0.051253,
+    "success": true,
+    "timestamp": "2026-03-13T17:03:42.894678+03:00"
+  },
+  {
+    "pair": "XRP/ETC",
+    "action": "CLOSE",
+    "total_slippage": 0.577,
+    "latency_ms": 0,
+    "fees": 0.083508,
+    "success": true,
+    "timestamp": "2026-03-13T17:53:45.452090+03:00"
+  },
+  {
+    "pair": "ETH/RIVER",
+    "action": "CLOSE",
+    "total_slippage": 0.3448,
+    "latency_ms": 0,
+    "fees": 0.049796,
+    "success": true,
+    "timestamp": "2026-03-13T18:02:43.691265+03:00"
+  },
+  {
+    "pair": "AXS/ETC",
+    "action": "CLOSE",
+    "total_slippage": 0.0778,
+    "latency_ms": 0,
+    "fees": 0.02741,
+    "success": true,
+    "timestamp": "2026-03-13T18:27:03.132997+03:00"
+  },
+  {
+    "pair": "LTC/ETC",
+    "action": "OPEN",
+    "total_slippage": 1.0269,
+    "latency_ms": 2447.5,
+    "fees": 0.054882,
+    "success": true,
+    "timestamp": "2026-03-13T18:40:39.840197+03:00"
+  },
+  {
+    "pair": "SOL/BNB",
+    "action": "CLOSE",
+    "total_slippage": 0.0263,
+    "latency_ms": 0,
+    "fees": 0.050123,
+    "success": true,
+    "timestamp": "2026-03-13T20:22:34.926674+03:00"
+  },
+  {
+    "pair": "SOL/BNB",
+    "action": "OPEN",
+    "total_slippage": 0.9135,
+    "latency_ms": 1958.8,
+    "fees": 0.049746,
+    "success": true,
+    "timestamp": "2026-03-13T20:45:33.032411+03:00"
+  },
+  {
+    "pair": "LTC/ETC",
+    "action": "CLOSE",
+    "total_slippage": 0.0,
+    "latency_ms": 0,
+    "fees": 0.054021,
+    "success": true,
+    "timestamp": "2026-03-14T09:15:29.191854+03:00"
+  },
+  {
+    "pair": "SOL/BNB",
+    "action": "CLOSE",
+    "total_slippage": 0.0114,
+    "latency_ms": 0,
+    "fees": 0.049362,
+    "success": true,
+    "timestamp": "2026-03-14T09:15:59.445789+03:00"
+  },
+  {
+    "pair": "SOL/LTC",
+    "action": "OPEN",
+    "total_slippage": 0.2347,
+    "latency_ms": 2304.1,
+    "fees": 0.090448,
+    "success": true,
+    "timestamp": "2026-03-16T12:54:57.784331+03:00"
+  },
+  {
+    "pair": "XAUT/BNB",
+    "action": "OPEN",
+    "total_slippage": 0.5653,
+    "latency_ms": 2299.0,
+    "fees": 0.091362,
+    "success": true,
+    "timestamp": "2026-03-16T15:27:39.969977+03:00"
+  },
+  {
+    "pair": "SOL/LTC",
+    "action": "CLOSE",
+    "total_slippage": 0.081,
+    "latency_ms": 0,
+    "fees": 0.091441,
+    "success": true,
+    "timestamp": "2026-03-16T20:55:34.248768+03:00"
+  },
+  {
+    "pair": "XAUT/ZEC",
+    "action": "CLOSE",
+    "total_slippage": 0.0604,
+    "latency_ms": 0,
+    "fees": 0.046486,
+    "success": true,
+    "timestamp": "2026-03-16T21:34:15.629270+03:00"
+  },
+  {
+    "pair": "ZEC/AAVE",
+    "action": "OPEN",
+    "total_slippage": 0.94,
+    "latency_ms": 2330.4,
+    "fees": 0.108611,
+    "success": true,
+    "timestamp": "2026-03-16T21:44:34.131636+03:00"
+  },
+  {
+    "pair": "XAUT/BNB",
+    "action": "CLOSE",
+    "total_slippage": 0.0148,
+    "latency_ms": 0,
+    "fees": 0.044497,
+    "success": true,
+    "timestamp": "2026-03-16T23:27:43.410319+03:00"
+  },
+  {
+    "pair": "XAUT/XMR",
+    "action": "OPEN",
+    "total_slippage": 0.4508,
+    "latency_ms": 2014.0,
+    "fees": 0.091694,
+    "success": true,
+    "timestamp": "2026-03-16T23:32:25.666009+03:00"
+  },
+  {
+    "pair": "ZEC/AAVE",
+    "action": "CLOSE",
+    "total_slippage": 0.2956,
+    "latency_ms": 0,
+    "fees": 0.113162,
+    "success": true,
+    "timestamp": "2026-03-17T01:28:40.438560+03:00"
+  },
+  {
+    "pair": "XRP/ETC",
+    "action": "OPEN",
+    "total_slippage": 0.9086,
+    "latency_ms": 2671.2,
+    "fees": 0.054595,
+    "success": true,
+    "timestamp": "2026-03-17T06:13:33.885155+03:00"
+  },
+  {
+    "pair": "XRP/ETC",
+    "action": "CLOSE",
+    "total_slippage": 0.0289,
+    "latency_ms": 0,
+    "fees": 0.053906,
+    "success": true,
+    "timestamp": "2026-03-17T07:10:50.432192+03:00"
+  },
+  {
+    "pair": "XAUT/DASH",
+    "action": "CLOSE",
+    "total_slippage": 0.016,
+    "latency_ms": 0,
+    "fees": 0.046639,
+    "success": true,
+    "timestamp": "2026-03-17T07:30:49.980863+03:00"
+  },
+  {
+    "pair": "XAUT/XMR",
+    "action": "CLOSE",
+    "total_slippage": 0.0108,
+    "latency_ms": 0,
+    "fees": 0.044972,
+    "success": true,
+    "timestamp": "2026-03-17T07:32:58.187387+03:00"
+  }
+]

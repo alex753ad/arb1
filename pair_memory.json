@@ -1,0 +1,1787 @@
+{
+  "ZEC/AAVE": {
+    "trades": 12,
+    "wins": 6,
+    "total_pnl": -6.043,
+    "pnls": [
+      0.053,
+      -2.152,
+      1.138,
+      0.804,
+      0.089,
+      -0.15,
+      1.542,
+      -2.041,
+      0.721,
+      -2.263,
+      -2.293,
+      -1.491
+    ],
+    "avg_hold": 4.5,
+    "best_pnl": 1.542,
+    "worst_pnl": -2.293,
+    "last_trade": "2026-03-18 07:05",
+    "directions": {
+      "LONG": 6,
+      "SHORT": 6
+    }
+  },
+  "XRP/LTC": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.152,
+    "pnls": [
+      0.152
+    ],
+    "avg_hold": 2.8,
+    "best_pnl": 0.152,
+    "worst_pnl": 0.152,
+    "last_trade": "2026-02-26 16:35",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "NEAR/AVAX": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.775,
+    "pnls": [
+      0.775
+    ],
+    "avg_hold": 0.2,
+    "best_pnl": 0.775,
+    "worst_pnl": 0.775,
+    "last_trade": "2026-02-26 17:06",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "NEAR/FIL": {
+    "trades": 3,
+    "wins": 1,
+    "total_pnl": -2.507,
+    "pnls": [
+      0.307,
+      -1.258,
+      -1.556
+    ],
+    "avg_hold": 0.9,
+    "best_pnl": 0.307,
+    "worst_pnl": -1.556,
+    "last_trade": "2026-03-01 00:20",
+    "directions": {
+      "SHORT": 3
+    }
+  },
+  "SUI/AVAX": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.272,
+    "pnls": [
+      -1.272
+    ],
+    "avg_hold": 0.8,
+    "best_pnl": -1.272,
+    "worst_pnl": -1.272,
+    "last_trade": "2026-02-26 18:16",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "ZEC/OKB": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -2.833,
+    "pnls": [
+      -1.602,
+      -1.231
+    ],
+    "avg_hold": 0.5,
+    "best_pnl": -1.231,
+    "worst_pnl": -1.602,
+    "last_trade": "2026-02-26 19:10",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "DOT/UNI": {
+    "trades": 5,
+    "wins": 2,
+    "total_pnl": -5.546,
+    "pnls": [
+      -1.375,
+      1.732,
+      -0.468,
+      0.243,
+      -5.678
+    ],
+    "avg_hold": 3.6,
+    "best_pnl": 1.732,
+    "worst_pnl": -5.678,
+    "last_trade": "2026-03-15 19:53",
+    "directions": {
+      "SHORT": 3,
+      "LONG": 2
+    }
+  },
+  "IP/UNI": {
+    "trades": 2,
+    "wins": 2,
+    "total_pnl": 1.638,
+    "pnls": [
+      0.076,
+      1.562
+    ],
+    "avg_hold": 0.9,
+    "best_pnl": 1.562,
+    "worst_pnl": 0.076,
+    "last_trade": "2026-02-26 19:48",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "SUI/UNI": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.633,
+    "pnls": [
+      0.633
+    ],
+    "avg_hold": 1.7,
+    "best_pnl": 0.633,
+    "worst_pnl": 0.633,
+    "last_trade": "2026-02-26 19:39",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "IP/ORDI": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.944,
+    "pnls": [
+      -1.944
+    ],
+    "avg_hold": 2.3,
+    "best_pnl": -1.944,
+    "worst_pnl": -1.944,
+    "last_trade": "2026-02-26 19:47",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "INJ/UNI": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.231,
+    "pnls": [
+      0.231
+    ],
+    "avg_hold": 1.6,
+    "best_pnl": 0.231,
+    "worst_pnl": 0.231,
+    "last_trade": "2026-02-26 20:07",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "AXS/TSLA": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.564,
+    "pnls": [
+      -1.564
+    ],
+    "avg_hold": 0.7,
+    "best_pnl": -1.564,
+    "worst_pnl": -1.564,
+    "last_trade": "2026-02-26 21:55",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "PAXG/TAO": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 1.476,
+    "pnls": [
+      1.476
+    ],
+    "avg_hold": 1.0,
+    "best_pnl": 1.476,
+    "worst_pnl": 1.476,
+    "last_trade": "2026-02-26 22:08",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "ETH/TSLA": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.502,
+    "pnls": [
+      0.502
+    ],
+    "avg_hold": 1.0,
+    "best_pnl": 0.502,
+    "worst_pnl": 0.502,
+    "last_trade": "2026-02-26 22:16",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "LINK/UNI": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -2.098,
+    "pnls": [
+      -0.883,
+      -1.215
+    ],
+    "avg_hold": 3.8,
+    "best_pnl": -0.883,
+    "worst_pnl": -1.215,
+    "last_trade": "2026-02-27 18:32",
+    "directions": {
+      "LONG": 2
+    }
+  },
+  "ICP/LPT": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.461,
+    "pnls": [
+      0.461
+    ],
+    "avg_hold": 4.2,
+    "best_pnl": 0.461,
+    "worst_pnl": 0.461,
+    "last_trade": "2026-02-27 04:02",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "GIGGLE/LPT": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.356,
+    "pnls": [
+      -1.356
+    ],
+    "avg_hold": 2.1,
+    "best_pnl": -1.356,
+    "worst_pnl": -1.356,
+    "last_trade": "2026-02-27 13:12",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "AVAX/LTC": {
+    "trades": 4,
+    "wins": 1,
+    "total_pnl": -3.563,
+    "pnls": [
+      -1.231,
+      -1.361,
+      -1.382,
+      0.411
+    ],
+    "avg_hold": 1.6,
+    "best_pnl": 0.411,
+    "worst_pnl": -1.382,
+    "last_trade": "2026-02-28 12:27",
+    "directions": {
+      "LONG": 3,
+      "SHORT": 1
+    }
+  },
+  "LPT/CELO": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.765,
+    "pnls": [
+      0.765
+    ],
+    "avg_hold": 2.9,
+    "best_pnl": 0.765,
+    "worst_pnl": 0.765,
+    "last_trade": "2026-02-27 14:57",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "XRP/LINK": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.539,
+    "pnls": [
+      0.539
+    ],
+    "avg_hold": 1.8,
+    "best_pnl": 0.539,
+    "worst_pnl": 0.539,
+    "last_trade": "2026-02-27 15:59",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "LINK/BCH": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -2.5,
+    "pnls": [
+      -1.293,
+      -1.207
+    ],
+    "avg_hold": 3.0,
+    "best_pnl": -1.207,
+    "worst_pnl": -1.293,
+    "last_trade": "2026-02-28 01:33",
+    "directions": {
+      "LONG": 2
+    }
+  },
+  "MNT/MAVIA": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 1.585,
+    "pnls": [
+      1.585
+    ],
+    "avg_hold": 1.7,
+    "best_pnl": 1.585,
+    "worst_pnl": 1.585,
+    "last_trade": "2026-02-27 18:28",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "RED/MAVIA": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 1.015,
+    "pnls": [
+      1.015
+    ],
+    "avg_hold": 2.2,
+    "best_pnl": 1.015,
+    "worst_pnl": 1.015,
+    "last_trade": "2026-02-27 18:57",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "HYPE/VVV": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.68,
+    "pnls": [
+      0.68
+    ],
+    "avg_hold": 4.5,
+    "best_pnl": 0.68,
+    "worst_pnl": 0.68,
+    "last_trade": "2026-02-27 19:07",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "LTC/ETC": {
+    "trades": 6,
+    "wins": 4,
+    "total_pnl": 2.158,
+    "pnls": [
+      -1.462,
+      0.369,
+      1.3,
+      1.219,
+      -1.111,
+      1.843
+    ],
+    "avg_hold": 5.4,
+    "best_pnl": 1.843,
+    "worst_pnl": -1.462,
+    "last_trade": "2026-03-14 09:15",
+    "directions": {
+      "SHORT": 4,
+      "LONG": 2
+    }
+  },
+  "LTC/ICP": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.271,
+    "pnls": [
+      -1.271
+    ],
+    "avg_hold": 2.8,
+    "best_pnl": -1.271,
+    "worst_pnl": -1.271,
+    "last_trade": "2026-02-27 19:35",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "FIL/NEAR": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.097,
+    "pnls": [
+      -0.097
+    ],
+    "avg_hold": 6.0,
+    "best_pnl": -0.097,
+    "worst_pnl": -0.097,
+    "last_trade": "2026-02-27 19:49",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "UNI/TRUMP": {
+    "trades": 4,
+    "wins": 1,
+    "total_pnl": -1.71,
+    "pnls": [
+      -0.678,
+      0.538,
+      -0.822,
+      -0.748
+    ],
+    "avg_hold": 6.0,
+    "best_pnl": 0.538,
+    "worst_pnl": -0.822,
+    "last_trade": "2026-03-01 23:25",
+    "directions": {
+      "LONG": 1,
+      "SHORT": 3
+    }
+  },
+  "AXS/TRUMP": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -2.797,
+    "pnls": [
+      -1.358,
+      -1.439
+    ],
+    "avg_hold": 3.4,
+    "best_pnl": -1.358,
+    "worst_pnl": -1.439,
+    "last_trade": "2026-02-28 00:02",
+    "directions": {
+      "LONG": 2
+    }
+  },
+  "XRP/ETC": {
+    "trades": 4,
+    "wins": 2,
+    "total_pnl": 1.492,
+    "pnls": [
+      -1.276,
+      1.985,
+      -0.902,
+      1.685
+    ],
+    "avg_hold": 4.7,
+    "best_pnl": 1.985,
+    "worst_pnl": -1.276,
+    "last_trade": "2026-03-17 07:10",
+    "directions": {
+      "LONG": 1,
+      "SHORT": 3
+    }
+  },
+  "HYPE/ORDI": {
+    "trades": 3,
+    "wins": 2,
+    "total_pnl": 1.486,
+    "pnls": [
+      -1.558,
+      1.114,
+      1.93
+    ],
+    "avg_hold": 3.0,
+    "best_pnl": 1.93,
+    "worst_pnl": -1.558,
+    "last_trade": "2026-02-28 17:01",
+    "directions": {
+      "LONG": 2,
+      "SHORT": 1
+    }
+  },
+  "LTC/TRUMP": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -2.874,
+    "pnls": [
+      -0.934,
+      -1.94
+    ],
+    "avg_hold": 3.4,
+    "best_pnl": -0.934,
+    "worst_pnl": -1.94,
+    "last_trade": "2026-02-28 10:40",
+    "directions": {
+      "LONG": 2
+    }
+  },
+  "ETH/XMR": {
+    "trades": 4,
+    "wins": 3,
+    "total_pnl": 2.699,
+    "pnls": [
+      1.343,
+      0.848,
+      1.302,
+      -0.794
+    ],
+    "avg_hold": 5.0,
+    "best_pnl": 1.343,
+    "worst_pnl": -0.794,
+    "last_trade": "2026-03-16 11:44",
+    "directions": {
+      "SHORT": 1,
+      "LONG": 3
+    }
+  },
+  "SOL/AVAX": {
+    "trades": 8,
+    "wins": 2,
+    "total_pnl": -5.321,
+    "pnls": [
+      0.533,
+      1.707,
+      -1.339,
+      -1.871,
+      -1.262,
+      -1.319,
+      -1.238,
+      -0.532
+    ],
+    "avg_hold": 3.3,
+    "best_pnl": 1.707,
+    "worst_pnl": -1.871,
+    "last_trade": "2026-03-05 16:45",
+    "directions": {
+      "LONG": 3,
+      "SHORT": 5
+    }
+  },
+  "AAVE/TAO": {
+    "trades": 4,
+    "wins": 2,
+    "total_pnl": -0.639,
+    "pnls": [
+      -1.205,
+      0.471,
+      -0.342,
+      0.437
+    ],
+    "avg_hold": 4.4,
+    "best_pnl": 0.471,
+    "worst_pnl": -1.205,
+    "last_trade": "2026-03-06 06:16",
+    "directions": {
+      "LONG": 1,
+      "SHORT": 3
+    }
+  },
+  "ETH/BNB": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -2.54,
+    "pnls": [
+      -1.305,
+      -1.235
+    ],
+    "avg_hold": 3.9,
+    "best_pnl": -1.235,
+    "worst_pnl": -1.305,
+    "last_trade": "2026-02-28 12:11",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "SOL/BNB": {
+    "trades": 4,
+    "wins": 4,
+    "total_pnl": 3.197,
+    "pnls": [
+      1.273,
+      1.02,
+      0.242,
+      0.662
+    ],
+    "avg_hold": 7.4,
+    "best_pnl": 1.273,
+    "worst_pnl": 0.242,
+    "last_trade": "2026-03-14 09:15",
+    "directions": {
+      "SHORT": 3,
+      "LONG": 1
+    }
+  },
+  "TRUMP/ETC": {
+    "trades": 3,
+    "wins": 2,
+    "total_pnl": 0.525,
+    "pnls": [
+      0.385,
+      -0.345,
+      0.485
+    ],
+    "avg_hold": 2.5,
+    "best_pnl": 0.485,
+    "worst_pnl": -0.345,
+    "last_trade": "2026-03-05 13:34",
+    "directions": {
+      "LONG": 1,
+      "SHORT": 2
+    }
+  },
+  "LINK/SOL": {
+    "trades": 2,
+    "wins": 1,
+    "total_pnl": -0.645,
+    "pnls": [
+      -1.51,
+      0.865
+    ],
+    "avg_hold": 4.8,
+    "best_pnl": 0.865,
+    "worst_pnl": -1.51,
+    "last_trade": "2026-03-06 14:21",
+    "directions": {
+      "LONG": 1,
+      "SHORT": 1
+    }
+  },
+  "SOL/TRUMP": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 1.346,
+    "pnls": [
+      1.346
+    ],
+    "avg_hold": 1.2,
+    "best_pnl": 1.346,
+    "worst_pnl": 1.346,
+    "last_trade": "2026-02-28 12:12",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "BTC/ETH": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.568,
+    "pnls": [
+      -0.568
+    ],
+    "avg_hold": 6.1,
+    "best_pnl": -0.568,
+    "worst_pnl": -0.568,
+    "last_trade": "2026-02-28 16:03",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "LINK/TRUMP": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.162,
+    "pnls": [
+      0.162
+    ],
+    "avg_hold": 6.0,
+    "best_pnl": 0.162,
+    "worst_pnl": 0.162,
+    "last_trade": "2026-02-28 16:44",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "AVAX/DASH": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -3.077,
+    "pnls": [
+      -1.362,
+      -1.715
+    ],
+    "avg_hold": 0.3,
+    "best_pnl": -1.362,
+    "worst_pnl": -1.715,
+    "last_trade": "2026-02-28 21:56",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "XMR/ETC": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.332,
+    "pnls": [
+      -1.332
+    ],
+    "avg_hold": 1.9,
+    "best_pnl": -1.332,
+    "worst_pnl": -1.332,
+    "last_trade": "2026-02-28 21:35",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "XRP/TRUMP": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.206,
+    "pnls": [
+      -1.206
+    ],
+    "avg_hold": 4.7,
+    "best_pnl": -1.206,
+    "worst_pnl": -1.206,
+    "last_trade": "2026-02-28 21:56",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "XRP/VVV": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.592,
+    "pnls": [
+      -1.592
+    ],
+    "avg_hold": 4.4,
+    "best_pnl": -1.592,
+    "worst_pnl": -1.592,
+    "last_trade": "2026-02-28 21:56",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "UNI/FIL": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 1.368,
+    "pnls": [
+      1.368
+    ],
+    "avg_hold": 2.6,
+    "best_pnl": 1.368,
+    "worst_pnl": 1.368,
+    "last_trade": "2026-02-28 22:37",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "LIT/MORPHO": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.324,
+    "pnls": [
+      -1.324
+    ],
+    "avg_hold": 0.4,
+    "best_pnl": -1.324,
+    "worst_pnl": -1.324,
+    "last_trade": "2026-02-28 23:55",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "LTC/AVAX": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -2.923,
+    "pnls": [
+      -1.405,
+      -1.518
+    ],
+    "avg_hold": 1.5,
+    "best_pnl": -1.405,
+    "worst_pnl": -1.518,
+    "last_trade": "2026-03-01 05:05",
+    "directions": {
+      "LONG": 2
+    }
+  },
+  "AAVE/ZEC": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.489,
+    "pnls": [
+      -1.489
+    ],
+    "avg_hold": 2.5,
+    "best_pnl": -1.489,
+    "worst_pnl": -1.489,
+    "last_trade": "2026-03-01 01:38",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "LINK/AVAX": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -1.906,
+    "pnls": [
+      -0.574,
+      -1.332
+    ],
+    "avg_hold": 7.0,
+    "best_pnl": -0.574,
+    "worst_pnl": -1.332,
+    "last_trade": "2026-03-16 03:49",
+    "directions": {
+      "LONG": 1,
+      "SHORT": 1
+    }
+  },
+  "FIO/1000BONK": {
+    "trades": 3,
+    "wins": 2,
+    "total_pnl": 2.484,
+    "pnls": [
+      2.419,
+      2.017,
+      -1.952
+    ],
+    "avg_hold": 0.2,
+    "best_pnl": 2.419,
+    "worst_pnl": -1.952,
+    "last_trade": "2026-03-01 04:58",
+    "directions": {
+      "SHORT": 2,
+      "LONG": 1
+    }
+  },
+  "XMR/DASH": {
+    "trades": 2,
+    "wins": 1,
+    "total_pnl": -0.943,
+    "pnls": [
+      0.328,
+      -1.271
+    ],
+    "avg_hold": 1.8,
+    "best_pnl": 0.328,
+    "worst_pnl": -1.271,
+    "last_trade": "2026-03-01 20:13",
+    "directions": {
+      "LONG": 1,
+      "SHORT": 1
+    }
+  },
+  "SOL/LTC": {
+    "trades": 5,
+    "wins": 3,
+    "total_pnl": -1.29,
+    "pnls": [
+      -0.784,
+      0.277,
+      0.027,
+      0.277,
+      -1.087
+    ],
+    "avg_hold": 7.6,
+    "best_pnl": 0.277,
+    "worst_pnl": -1.087,
+    "last_trade": "2026-03-16 20:55",
+    "directions": {
+      "SHORT": 4,
+      "LONG": 1
+    }
+  },
+  "LINK/NEAR": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 1.004,
+    "pnls": [
+      1.004
+    ],
+    "avg_hold": 1.3,
+    "best_pnl": 1.004,
+    "worst_pnl": 1.004,
+    "last_trade": "2026-03-01 10:17",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "ETC/DASH": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.97,
+    "pnls": [
+      -0.97
+    ],
+    "avg_hold": 6.0,
+    "best_pnl": -0.97,
+    "worst_pnl": -0.97,
+    "last_trade": "2026-03-01 20:52",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "ORDI/DASH": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.48,
+    "pnls": [
+      -0.48
+    ],
+    "avg_hold": 0.1,
+    "best_pnl": -0.48,
+    "worst_pnl": -0.48,
+    "last_trade": "2026-03-02 14:33",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "BNB/BCH": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.203,
+    "pnls": [
+      -0.203
+    ],
+    "avg_hold": 0.1,
+    "best_pnl": -0.203,
+    "worst_pnl": -0.203,
+    "last_trade": "2026-03-03 01:50",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "SUI/EGLD": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.298,
+    "pnls": [
+      0.298
+    ],
+    "avg_hold": 6.0,
+    "best_pnl": 0.298,
+    "worst_pnl": 0.298,
+    "last_trade": "2026-03-03 09:36",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "SOL/EGLD": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.991,
+    "pnls": [
+      -0.991
+    ],
+    "avg_hold": 6.0,
+    "best_pnl": -0.991,
+    "worst_pnl": -0.991,
+    "last_trade": "2026-03-03 09:36",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "SUI/ENS": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.48,
+    "pnls": [
+      -1.48
+    ],
+    "avg_hold": 0.4,
+    "best_pnl": -1.48,
+    "worst_pnl": -1.48,
+    "last_trade": "2026-03-04 22:19",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "BNB/TAO": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -2.476,
+    "pnls": [
+      -1.202,
+      -1.274
+    ],
+    "avg_hold": 1.0,
+    "best_pnl": -1.202,
+    "worst_pnl": -1.274,
+    "last_trade": "2026-03-05 02:33",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "XRP/LIT": {
+    "trades": 3,
+    "wins": 3,
+    "total_pnl": 3.892,
+    "pnls": [
+      3.169,
+      0.404,
+      0.319
+    ],
+    "avg_hold": 7.3,
+    "best_pnl": 3.169,
+    "worst_pnl": 0.319,
+    "last_trade": "2026-03-08 21:28",
+    "directions": {
+      "SHORT": 3
+    }
+  },
+  "TRUMP/DASH": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.577,
+    "pnls": [
+      0.577
+    ],
+    "avg_hold": 4.8,
+    "best_pnl": 0.577,
+    "worst_pnl": 0.577,
+    "last_trade": "2026-03-05 02:40",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "TRUMP/INJ": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.512,
+    "pnls": [
+      0.512
+    ],
+    "avg_hold": 6.0,
+    "best_pnl": 0.512,
+    "worst_pnl": 0.512,
+    "last_trade": "2026-03-05 03:27",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "LIT/ORDI": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 2.377,
+    "pnls": [
+      2.377
+    ],
+    "avg_hold": 2.7,
+    "best_pnl": 2.377,
+    "worst_pnl": 2.377,
+    "last_trade": "2026-03-05 06:14",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "TRUMP/ENS": {
+    "trades": 2,
+    "wins": 1,
+    "total_pnl": -0.749,
+    "pnls": [
+      -1.259,
+      0.51
+    ],
+    "avg_hold": 4.9,
+    "best_pnl": 0.51,
+    "worst_pnl": -1.259,
+    "last_trade": "2026-03-05 13:34",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "LIT/ALGO": {
+    "trades": 2,
+    "wins": 1,
+    "total_pnl": -0.398,
+    "pnls": [
+      -1.202,
+      0.804
+    ],
+    "avg_hold": 4.4,
+    "best_pnl": 0.804,
+    "worst_pnl": -1.202,
+    "last_trade": "2026-03-05 13:11",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "LINK/LTC": {
+    "trades": 6,
+    "wins": 1,
+    "total_pnl": -4.647,
+    "pnls": [
+      -2.132,
+      0.224,
+      -0.132,
+      -0.125,
+      -0.446,
+      -2.036
+    ],
+    "avg_hold": 6.8,
+    "best_pnl": 0.224,
+    "worst_pnl": -2.132,
+    "last_trade": "2026-03-16 06:32",
+    "directions": {
+      "SHORT": 6
+    }
+  },
+  "UNI/LIT": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.482,
+    "pnls": [
+      0.482
+    ],
+    "avg_hold": 8.0,
+    "best_pnl": 0.482,
+    "worst_pnl": 0.482,
+    "last_trade": "2026-03-06 06:17",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "HYPE/BNB": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 1.257,
+    "pnls": [
+      1.257
+    ],
+    "avg_hold": 2.4,
+    "best_pnl": 1.257,
+    "worst_pnl": 1.257,
+    "last_trade": "2026-03-06 12:45",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "XRP/AVAX": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 1.753,
+    "pnls": [
+      1.753
+    ],
+    "avg_hold": 5.7,
+    "best_pnl": 1.753,
+    "worst_pnl": 1.753,
+    "last_trade": "2026-03-06 18:18",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "BNB/SOL": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.385,
+    "pnls": [
+      -0.385
+    ],
+    "avg_hold": 8.0,
+    "best_pnl": -0.385,
+    "worst_pnl": -0.385,
+    "last_trade": "2026-03-07 02:56",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "LINK/CRCL": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.653,
+    "pnls": [
+      -1.653
+    ],
+    "avg_hold": 8.0,
+    "best_pnl": -1.653,
+    "worst_pnl": -1.653,
+    "last_trade": "2026-03-07 03:34",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "BNB/COIN": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.619,
+    "pnls": [
+      -0.619
+    ],
+    "avg_hold": 8.0,
+    "best_pnl": -0.619,
+    "worst_pnl": -0.619,
+    "last_trade": "2026-03-07 03:47",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "ETH/TAO": {
+    "trades": 2,
+    "wins": 0,
+    "total_pnl": -4.28,
+    "pnls": [
+      -2.026,
+      -2.254
+    ],
+    "avg_hold": 1.3,
+    "best_pnl": -2.026,
+    "worst_pnl": -2.254,
+    "last_trade": "2026-03-08 01:35",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "SUI/BANANA": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.938,
+    "pnls": [
+      0.938
+    ],
+    "avg_hold": 3.1,
+    "best_pnl": 0.938,
+    "worst_pnl": 0.938,
+    "last_trade": "2026-03-08 06:15",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "XRP/MLN": {
+    "trades": 2,
+    "wins": 1,
+    "total_pnl": -1.217,
+    "pnls": [
+      -1.24,
+      0.023
+    ],
+    "avg_hold": 8.5,
+    "best_pnl": 0.023,
+    "worst_pnl": -1.24,
+    "last_trade": "2026-03-08 18:08",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "LTC/MLN": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -6.322,
+    "pnls": [
+      -6.322
+    ],
+    "avg_hold": 8.5,
+    "best_pnl": -6.322,
+    "worst_pnl": -6.322,
+    "last_trade": "2026-03-08 08:54",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "ETH/STETH": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.384,
+    "pnls": [
+      -0.384
+    ],
+    "avg_hold": 0.4,
+    "best_pnl": -0.384,
+    "worst_pnl": -0.384,
+    "last_trade": "2026-03-08 12:27",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "ETH/BTC": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.405,
+    "pnls": [
+      -0.405
+    ],
+    "avg_hold": 0.2,
+    "best_pnl": -0.405,
+    "worst_pnl": -0.405,
+    "last_trade": "2026-03-08 12:49",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "ADA/KITE": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.746,
+    "pnls": [
+      0.746
+    ],
+    "avg_hold": 0.3,
+    "best_pnl": 0.746,
+    "worst_pnl": 0.746,
+    "last_trade": "2026-03-08 13:34",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "SUI/TON": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.37,
+    "pnls": [
+      -0.37
+    ],
+    "avg_hold": 0.6,
+    "best_pnl": -0.37,
+    "worst_pnl": -0.37,
+    "last_trade": "2026-03-08 13:35",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "ATOM/TIA": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.756,
+    "pnls": [
+      -0.756
+    ],
+    "avg_hold": 0.9,
+    "best_pnl": -0.756,
+    "worst_pnl": -0.756,
+    "last_trade": "2026-03-08 13:37",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "SOL/UNI": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.623,
+    "pnls": [
+      0.623
+    ],
+    "avg_hold": 2.7,
+    "best_pnl": 0.623,
+    "worst_pnl": 0.623,
+    "last_trade": "2026-03-08 13:43",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "SUI/DOGS": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.273,
+    "pnls": [
+      -0.273
+    ],
+    "avg_hold": 0.8,
+    "best_pnl": -0.273,
+    "worst_pnl": -0.273,
+    "last_trade": "2026-03-08 13:45",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "TRUMP/LIT": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -2.053,
+    "pnls": [
+      -2.053
+    ],
+    "avg_hold": 2.4,
+    "best_pnl": -2.053,
+    "worst_pnl": -2.053,
+    "last_trade": "2026-03-08 15:52",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "AVAX/FIL": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.368,
+    "pnls": [
+      0.368
+    ],
+    "avg_hold": 8.4,
+    "best_pnl": 0.368,
+    "worst_pnl": 0.368,
+    "last_trade": "2026-03-08 17:26",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "KITE/ADA": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.338,
+    "pnls": [
+      -0.338
+    ],
+    "avg_hold": 0.0,
+    "best_pnl": -0.338,
+    "worst_pnl": -0.338,
+    "last_trade": "2026-03-08 18:34",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "ASTER/ATOM": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.033,
+    "pnls": [
+      0.033
+    ],
+    "avg_hold": 8.0,
+    "best_pnl": 0.033,
+    "worst_pnl": 0.033,
+    "last_trade": "2026-03-09 01:02",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "ASTER/LIT": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.157,
+    "pnls": [
+      0.157
+    ],
+    "avg_hold": 8.0,
+    "best_pnl": 0.157,
+    "worst_pnl": 0.157,
+    "last_trade": "2026-03-09 01:02",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "WLD/APT": {
+    "trades": 2,
+    "wins": 1,
+    "total_pnl": 0.9,
+    "pnls": [
+      1.215,
+      -0.315
+    ],
+    "avg_hold": 7.4,
+    "best_pnl": 1.215,
+    "worst_pnl": -0.315,
+    "last_trade": "2026-03-13 00:45",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "WLD/MNT": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 1.799,
+    "pnls": [
+      1.799
+    ],
+    "avg_hold": 5.8,
+    "best_pnl": 1.799,
+    "worst_pnl": 1.799,
+    "last_trade": "2026-03-10 19:24",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "WLD/FIL": {
+    "trades": 2,
+    "wins": 1,
+    "total_pnl": 1.856,
+    "pnls": [
+      -0.775,
+      2.631
+    ],
+    "avg_hold": 5.4,
+    "best_pnl": 2.631,
+    "worst_pnl": -0.775,
+    "last_trade": "2026-03-12 18:28",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "WLD/CRV": {
+    "trades": 2,
+    "wins": 1,
+    "total_pnl": 0.157,
+    "pnls": [
+      -0.289,
+      0.446
+    ],
+    "avg_hold": 8.0,
+    "best_pnl": 0.446,
+    "worst_pnl": -0.289,
+    "last_trade": "2026-03-13 06:32",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "WLD/IP": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.414,
+    "pnls": [
+      0.414
+    ],
+    "avg_hold": 2.1,
+    "best_pnl": 0.414,
+    "worst_pnl": 0.414,
+    "last_trade": "2026-03-11 18:41",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "AXS/INJ": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 2.121,
+    "pnls": [
+      2.121
+    ],
+    "avg_hold": 5.0,
+    "best_pnl": 2.121,
+    "worst_pnl": 2.121,
+    "last_trade": "2026-03-11 21:30",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "AXS/ETC": {
+    "trades": 3,
+    "wins": 3,
+    "total_pnl": 3.067,
+    "pnls": [
+      1.55,
+      0.389,
+      1.128
+    ],
+    "avg_hold": 4.7,
+    "best_pnl": 1.55,
+    "worst_pnl": 0.389,
+    "last_trade": "2026-03-14 18:29",
+    "directions": {
+      "SHORT": 3
+    }
+  },
+  "WLD/ONDO": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 0.359,
+    "pnls": [
+      0.359
+    ],
+    "avg_hold": 6.6,
+    "best_pnl": 0.359,
+    "worst_pnl": 0.359,
+    "last_trade": "2026-03-11 21:32",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "ETH/RIVER": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -2.531,
+    "pnls": [
+      -2.531
+    ],
+    "avg_hold": 1.0,
+    "best_pnl": -2.531,
+    "worst_pnl": -2.531,
+    "last_trade": "2026-03-13 18:02",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "AVAX/LINK": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -6.957,
+    "pnls": [
+      -6.957
+    ],
+    "avg_hold": 0.0,
+    "best_pnl": -6.957,
+    "worst_pnl": -6.957,
+    "last_trade": "2026-03-15 19:48",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "ASTER/AZTEC": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -5.533,
+    "pnls": [
+      -5.533
+    ],
+    "avg_hold": 0.1,
+    "best_pnl": -5.533,
+    "worst_pnl": -5.533,
+    "last_trade": "2026-03-15 19:53",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "BNB/RIVER": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 21.335,
+    "pnls": [
+      21.335
+    ],
+    "avg_hold": 0.1,
+    "best_pnl": 21.335,
+    "worst_pnl": 21.335,
+    "last_trade": "2026-03-15 19:56",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "FIL/ICP": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 8.704,
+    "pnls": [
+      8.704
+    ],
+    "avg_hold": 1.0,
+    "best_pnl": 8.704,
+    "worst_pnl": 8.704,
+    "last_trade": "2026-03-15 20:49",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "ICP/INJ": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 5.673,
+    "pnls": [
+      5.673
+    ],
+    "avg_hold": 1.2,
+    "best_pnl": 5.673,
+    "worst_pnl": 5.673,
+    "last_trade": "2026-03-15 20:57",
+    "directions": {
+      "LONG": 1
+    }
+  },
+  "SOL/XMR": {
+    "trades": 2,
+    "wins": 1,
+    "total_pnl": -1.18,
+    "pnls": [
+      -2.435,
+      1.255
+    ],
+    "avg_hold": 4.1,
+    "best_pnl": 1.255,
+    "worst_pnl": -2.435,
+    "last_trade": "2026-03-17 08:01",
+    "directions": {
+      "SHORT": 2
+    }
+  },
+  "ETH/COIN": {
+    "trades": 2,
+    "wins": 1,
+    "total_pnl": 0.524,
+    "pnls": [
+      -0.079,
+      0.603
+    ],
+    "avg_hold": 14.9,
+    "best_pnl": 0.603,
+    "worst_pnl": -0.079,
+    "last_trade": "2026-03-16 11:26",
+    "directions": {
+      "LONG": 2
+    }
+  },
+  "XAUT/ZEC": {
+    "trades": 1,
+    "wins": 1,
+    "total_pnl": 7.313,
+    "pnls": [
+      7.313
+    ],
+    "avg_hold": 5.8,
+    "best_pnl": 7.313,
+    "worst_pnl": 7.313,
+    "last_trade": "2026-03-16 21:34",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "XAUT/BNB": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.867,
+    "pnls": [
+      -0.867
+    ],
+    "avg_hold": 8.0,
+    "best_pnl": -0.867,
+    "worst_pnl": -0.867,
+    "last_trade": "2026-03-16 23:27",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "XAUT/DASH": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -2.029,
+    "pnls": [
+      -2.029
+    ],
+    "avg_hold": 0.8,
+    "best_pnl": -2.029,
+    "worst_pnl": -2.029,
+    "last_trade": "2026-03-17 07:30",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "XAUT/XMR": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -1.141,
+    "pnls": [
+      -1.141
+    ],
+    "avg_hold": 8.0,
+    "best_pnl": -1.141,
+    "worst_pnl": -1.141,
+    "last_trade": "2026-03-17 07:32",
+    "directions": {
+      "SHORT": 1
+    }
+  },
+  "BNB/XMR": {
+    "trades": 1,
+    "wins": 0,
+    "total_pnl": -0.418,
+    "pnls": [
+      -0.418
+    ],
+    "avg_hold": 8.1,
+    "best_pnl": -0.418,
+    "worst_pnl": -0.418,
+    "last_trade": "2026-03-18 05:34",
+    "directions": {
+      "SHORT": 1
+    }
+  }
+}

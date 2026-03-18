@@ -1,0 +1,2296 @@
+[
+  {
+    "ts": "2026-03-17T02:07:25.219851+03:00",
+    "pair": "WLD/APT",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=53 < 60",
+    "source": "auto",
+    "details": {
+      "quality_score": 53,
+      "min_quality": 60
+    }
+  },
+  {
+    "ts": "2026-03-17T02:07:25.237186+03:00",
+    "pair": "WLD/APT",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=53 < 60",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | READY | 🟢 ВХОД ⚠️BT | Q=53 H=0.500 uBT=80% ML:C51",
+      "entry_label": "🟢 ВХОД ⚠️BT",
+      "quality": 53
+    }
+  },
+  {
+    "ts": "2026-03-17T02:07:25.303791+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "manual",
+    "details": {
+      "check_pair": "ZEC/AAVE",
+      "is_green": false
+    }
+  },
+  {
+    "ts": "2026-03-17T02:07:25.320436+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=75 H=0.060 HL=16h uBT=95% ML=B70 Size=200$ ",
+      "entry_label": "",
+      "quality": 75
+    }
+  },
+  {
+    "ts": "2026-03-17T02:20:11.237088+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "manual",
+    "details": {
+      "check_pair": "ZEC/AAVE",
+      "is_green": false
+    }
+  },
+  {
+    "ts": "2026-03-17T02:20:11.254806+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=75 H=0.060 HL=16h uBT=95% ML=B73 Size=200$ ",
+      "entry_label": "",
+      "quality": 75
+    }
+  },
+  {
+    "ts": "2026-03-17T02:20:16.999440+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "manual",
+    "details": {
+      "check_pair": "ZEC/AAVE",
+      "is_green": false
+    }
+  },
+  {
+    "ts": "2026-03-17T02:20:17.023179+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=75 H=0.060 HL=16h uBT=95% ML=B73 Size=200$ ",
+      "entry_label": "",
+      "quality": 75
+    }
+  },
+  {
+    "ts": "2026-03-17T02:21:18.217257+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "manual",
+    "details": {
+      "check_pair": "ZEC/AAVE",
+      "is_green": false
+    }
+  },
+  {
+    "ts": "2026-03-17T02:21:18.234276+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=75 H=0.060 HL=16h uBT=95% ML=B73 Size=200$ ",
+      "entry_label": "",
+      "quality": 75
+    }
+  },
+  {
+    "ts": "2026-03-17T02:33:40.628475+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=62 H=0.058 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T02:33:41.097317+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=62 H=0.058 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 62
+    }
+  },
+  {
+    "ts": "2026-03-17T02:33:41.136813+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 60
+    }
+  },
+  {
+    "ts": "2026-03-17T02:33:41.155698+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | READY | 🟢 ВХОД ⚠️NK | Q=57 H=0.054 uBT=100% ML:C52",
+      "entry_label": "🟢 ВХОД ⚠️NK",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T02:33:52.850779+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=62 H=0.058 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T02:33:52.866979+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=62 H=0.058 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 62
+    }
+  },
+  {
+    "ts": "2026-03-17T02:33:52.906611+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 60
+    }
+  },
+  {
+    "ts": "2026-03-17T02:33:52.925503+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | READY | 🟢 ВХОД ⚠️NK | Q=57 H=0.054 uBT=100% ML:C52",
+      "entry_label": "🟢 ВХОД ⚠️NK",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T02:34:54.198949+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=62 H=0.058 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T02:34:54.215493+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=62 H=0.058 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 62
+    }
+  },
+  {
+    "ts": "2026-03-17T02:34:54.256352+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 60
+    }
+  },
+  {
+    "ts": "2026-03-17T02:34:54.277592+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | READY | 🟢 ВХОД ⚠️NK | Q=57 H=0.054 uBT=100% ML:C52",
+      "entry_label": "🟢 ВХОД ⚠️NK",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T02:47:48.258337+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "manual",
+    "details": {
+      "check_pair": "ZEC/AAVE",
+      "is_green": false
+    }
+  },
+  {
+    "ts": "2026-03-17T02:47:48.280762+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=75 H=0.060 HL=16h uBT=95% ML=B70 Size=200$ ",
+      "entry_label": "",
+      "quality": 75
+    }
+  },
+  {
+    "ts": "2026-03-17T02:47:54.176445+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "manual",
+    "details": {
+      "check_pair": "ZEC/AAVE",
+      "is_green": false
+    }
+  },
+  {
+    "ts": "2026-03-17T02:47:54.193386+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=75 H=0.060 HL=16h uBT=95% ML=B70 Size=200$ ",
+      "entry_label": "",
+      "quality": 75
+    }
+  },
+  {
+    "ts": "2026-03-17T02:48:55.273252+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "manual",
+    "details": {
+      "check_pair": "ZEC/AAVE",
+      "is_green": false
+    }
+  },
+  {
+    "ts": "2026-03-17T02:48:55.294575+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "Anti-repeat: SL в SHORT по ZEC/AAVE сегодня (bypass: 🟢 ВХОД)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=75 H=0.060 HL=16h uBT=95% ML=B70 Size=200$ ",
+      "entry_label": "",
+      "quality": 75
+    }
+  },
+  {
+    "ts": "2026-03-17T03:01:39.224266+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 60
+    }
+  },
+  {
+    "ts": "2026-03-17T03:01:39.240009+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | READY | 🟢 ВХОД ⚠️NK | Q=57 H=0.054 uBT=100% ML:C54",
+      "entry_label": "🟢 ВХОД ⚠️NK",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T03:01:47.417202+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 60
+    }
+  },
+  {
+    "ts": "2026-03-17T03:01:47.432262+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | READY | 🟢 ВХОД ⚠️NK | Q=57 H=0.054 uBT=100% ML:C54",
+      "entry_label": "🟢 ВХОД ⚠️NK",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T03:02:52.258319+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 60
+    }
+  },
+  {
+    "ts": "2026-03-17T03:02:52.280769+03:00",
+    "pair": "AXS/ETC",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 60",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | READY | 🟢 ВХОД ⚠️NK | Q=57 H=0.054 uBT=100% ML:C54",
+      "entry_label": "🟢 ВХОД ⚠️NK",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T03:43:39.212946+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=B78 Size=190$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T03:43:39.226374+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=B78 Size=190$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T03:43:44.755887+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=B78 Size=190$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T03:43:44.771944+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=B78 Size=190$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T03:44:47.220317+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=B78 Size=190$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T03:44:47.235665+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=B78 Size=190$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T03:57:20.205113+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=B79 Size=190$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T03:57:20.220368+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=B79 Size=190$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T03:57:31.941218+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=B79 Size=190$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T03:57:31.957106+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=B79 Size=190$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T03:58:34.222315+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=B79 Size=190$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T03:58:34.242086+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=B79 Size=190$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T04:10:21.511847+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B72 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:10:21.525928+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B72 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T04:11:30.216782+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B72 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:11:30.239224+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B72 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T04:11:35.921826+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B72 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:11:35.937035+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B72 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T04:23:57.217813+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B69 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:23:57.233379+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B69 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T04:24:07.796522+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B69 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:24:07.813081+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B69 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T04:25:09.227345+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B69 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:25:09.248306+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B69 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T04:38:32.260032+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=120$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:38:32.284977+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=120$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T04:38:45.229538+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=120$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:38:45.253789+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=120$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T04:39:47.209362+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=120$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:39:47.227836+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=120$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T04:52:18.915996+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=A83 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:52:18.933976+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=A83 Size=200$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T04:53:22.193685+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=A83 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:53:22.210053+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=A83 Size=200$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T04:53:33.975851+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=A83 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T04:53:33.992937+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=A83 Size=200$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T05:06:14.865224+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=A82 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:06:14.879912+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=A82 Size=200$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T05:07:20.253347+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=A82 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:07:20.277614+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=A82 Size=200$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T05:07:35.674761+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.051 HL=16h uBT=100% ML=A82 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:07:35.691159+03:00",
+    "pair": "SOL/BNB",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.051 HL=16h uBT=100% ML=A82 Size=200$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T05:20:08.225867+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:20:08.245761+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T05:21:11.191594+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:21:11.211376+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T05:21:17.024026+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:21:17.040550+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T05:33:37.204578+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:33:37.224326+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T05:33:44.688681+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:33:44.707381+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T05:34:46.214453+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:34:46.233517+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T05:47:03.208037+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:47:03.229063+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=200$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T05:47:16.398984+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:47:16.422777+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=200$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T05:48:19.217664+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T05:48:19.233989+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B68 Size=200$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T06:00:59.193778+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T06:00:59.208051+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=200$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T06:01:14.518273+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T06:01:14.534965+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=200$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T06:02:17.206537+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=200$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T06:02:17.224788+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=200$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T06:13:34.035254+03:00",
+    "pair": "XRP/ETC",
+    "direction": "SHORT",
+    "reason": "✅ ОТКРЫТА",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | SIGNAL | 🟢 ВХОД ⚠️BT | Q=63 H=0.064 uBT=95% ML:B70"
+    }
+  },
+  {
+    "ts": "2026-03-17T06:13:34.362051+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T06:13:34.377888+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T06:14:19.200632+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T06:14:19.217078+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T06:14:27.076498+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T06:14:27.093122+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T06:41:22.645083+03:00",
+    "pair": "XAUT/DASH",
+    "direction": "SHORT",
+    "reason": "✅ ОТКРЫТА",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=62 H=0.058 HL=17h uBT=96% ML=B71 Size=150$ "
+    }
+  },
+  {
+    "ts": "2026-03-17T06:55:48.220986+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T06:55:48.237110+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T06:56:02.944539+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T06:56:02.968360+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T06:57:04.207285+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T06:57:04.224011+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B70 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T07:10:32.202622+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T07:10:32.219183+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T07:10:50.818154+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T07:10:50.848130+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T07:11:05.904705+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T07:11:05.919889+03:00",
+    "pair": "SOL/LTC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=68 H=0.047 HL=16h uBT=100% ML=B66 Size=170$ ",
+      "entry_label": "",
+      "quality": 68
+    }
+  },
+  {
+    "ts": "2026-03-17T07:52:27.604724+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=150$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T07:52:27.629579+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=150$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T07:53:29.053014+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=150$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T07:53:29.076795+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=150$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T07:53:44.458612+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=150$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T07:53:44.477032+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=150$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T08:09:09.223363+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C63 Size=100$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T08:09:09.247147+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C63 Size=100$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T08:09:25.251757+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C63 Size=100$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T08:09:25.300661+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C63 Size=100$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T08:10:25.862970+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C63 Size=100$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T08:10:25.884174+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C63 Size=100$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T08:26:19.310229+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=B68 Size=180$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T08:26:19.325536+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=B68 Size=180$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T08:26:22.874229+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=B68 Size=180$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T08:26:22.902941+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=B68 Size=180$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T08:27:25.238012+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=B68 Size=180$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T08:27:25.266644+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=B68 Size=180$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T08:43:22.265484+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C65 Size=150$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T08:43:22.289128+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C65 Size=150$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T08:43:25.912442+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C65 Size=150$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T08:43:25.934136+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C65 Size=150$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T08:44:28.281478+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C65 Size=150$ ",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T08:44:28.306217+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C65 Size=150$ ",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T09:16:48.322753+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=180$ NAKED!",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T09:16:48.347826+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=180$ NAKED!",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T09:16:57.767789+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=180$ NAKED!",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T09:16:57.794063+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=180$ NAKED!",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T09:18:00.259963+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=180$ NAKED!",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T09:18:00.284620+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C64 Size=180$ NAKED!",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T09:34:16.274986+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C61 Size=180$ NAKED!",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T09:34:16.301465+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C61 Size=180$ NAKED!",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T09:34:29.846527+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C61 Size=180$ NAKED!",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T09:34:29.870223+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C61 Size=180$ NAKED!",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T09:35:33.733409+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C61 Size=180$ NAKED!",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T09:35:33.757538+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C61 Size=180$ NAKED!",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T09:47:22.363636+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C60 Size=180$ NAKED!",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T09:47:22.382771+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C60 Size=180$ NAKED!",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T09:47:34.439661+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C60 Size=180$ NAKED!",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T09:47:34.460049+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C60 Size=180$ NAKED!",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T09:48:35.465560+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "manual",
+    "details": {
+      "entry_label": "Q=63 H=0.064 HL=16h uBT=95% ML=C60 Size=180$ NAKED!",
+      "check": "entry_filter"
+    }
+  },
+  {
+    "ts": "2026-03-17T09:48:35.482967+03:00",
+    "pair": "XRP/ETC",
+    "direction": "LONG",
+    "reason": "🚫 LONG заблокирован (фильтр)",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=63 H=0.064 HL=16h uBT=95% ML=C60 Size=180$ NAKED!",
+      "entry_label": "",
+      "quality": 63
+    }
+  },
+  {
+    "ts": "2026-03-17T16:27:20.272715+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T16:27:20.381762+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | SIGNAL | 🟢 ВХОД ❌BT | Q=57 H=0.202 uBT=100% ML:B79",
+      "entry_label": "🟢 ВХОД ❌BT",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T16:27:27.457889+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T16:27:27.515918+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | SIGNAL | 🟢 ВХОД ❌BT | Q=57 H=0.202 uBT=100% ML:B79",
+      "entry_label": "🟢 ВХОД ❌BT",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T16:28:29.263261+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T16:28:29.315235+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | SIGNAL | 🟢 ВХОД ❌BT | Q=57 H=0.202 uBT=100% ML:B79",
+      "entry_label": "🟢 ВХОД ❌BT",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T16:48:47.082780+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T16:48:48.536733+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | READY | 🟢 ВХОД | Q=57 H=0.202 uBT=100% ML:A82",
+      "entry_label": "🟢 ВХОД",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T16:49:18.319157+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T16:49:18.501350+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | READY | 🟢 ВХОД | Q=57 H=0.202 uBT=100% ML:A82",
+      "entry_label": "🟢 ВХОД",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T16:49:39.017578+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto",
+    "details": {
+      "quality_score": 57,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T16:49:39.926079+03:00",
+    "pair": "SOL/BNB",
+    "direction": "SHORT",
+    "reason": "Quality gate: Q=57 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | READY | 🟢 ВХОД | Q=57 H=0.202 uBT=100% ML:A82",
+      "entry_label": "🟢 ВХОД",
+      "quality": 57
+    }
+  },
+  {
+    "ts": "2026-03-17T17:27:28.443110+03:00",
+    "pair": "WLD/IP",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=40 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 40,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T17:27:28.533014+03:00",
+    "pair": "WLD/IP",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=40 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=40 H=0.219 HL=28h uBT=92% ML=C62 Size=120$ ",
+      "entry_label": "",
+      "quality": 40
+    }
+  },
+  {
+    "ts": "2026-03-17T17:27:32.454826+03:00",
+    "pair": "WLD/IP",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=40 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 40,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T17:27:32.538246+03:00",
+    "pair": "WLD/IP",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=40 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=40 H=0.219 HL=28h uBT=92% ML=C62 Size=120$ ",
+      "entry_label": "",
+      "quality": 40
+    }
+  },
+  {
+    "ts": "2026-03-17T17:28:35.052525+03:00",
+    "pair": "WLD/IP",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=40 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 40,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T17:28:35.131251+03:00",
+    "pair": "WLD/IP",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=40 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=40 H=0.219 HL=28h uBT=92% ML=C62 Size=120$ ",
+      "entry_label": "",
+      "quality": 40
+    }
+  },
+  {
+    "ts": "2026-03-17T19:10:15.893297+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=55 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 55,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T19:10:16.079356+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=55 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=55 H=0.158 HL=16h uBT=100% ML=B68 Size=120$ ",
+      "entry_label": "",
+      "quality": 55
+    }
+  },
+  {
+    "ts": "2026-03-17T19:10:27.837398+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=55 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 55,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T19:10:32.330647+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=55 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=55 H=0.158 HL=16h uBT=100% ML=B68 Size=120$ ",
+      "entry_label": "",
+      "quality": 55
+    }
+  },
+  {
+    "ts": "2026-03-17T19:11:28.003621+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=55 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 55,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T19:11:28.071699+03:00",
+    "pair": "AAVE/DASH",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=55 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=55 H=0.158 HL=16h uBT=100% ML=B68 Size=120$ ",
+      "entry_label": "",
+      "quality": 55
+    }
+  },
+  {
+    "ts": "2026-03-17T19:42:41.247647+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 32,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T19:42:41.957630+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=32 H=0.204 HL=28h uBT=80% ML=D42 Size=120$ NAKED!",
+      "entry_label": "",
+      "quality": 32
+    }
+  },
+  {
+    "ts": "2026-03-17T19:42:45.655612+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 32,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T19:42:45.979607+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=32 H=0.204 HL=28h uBT=80% ML=D42 Size=120$ NAKED!",
+      "entry_label": "",
+      "quality": 32
+    }
+  },
+  {
+    "ts": "2026-03-17T19:44:21.888218+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 32,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T19:44:23.921691+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=32 H=0.204 HL=28h uBT=80% ML=D42 Size=120$ NAKED!",
+      "entry_label": "",
+      "quality": 32
+    }
+  },
+  {
+    "ts": "2026-03-17T20:31:52.002924+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 32,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T20:31:53.181351+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=32 H=0.204 HL=28h uBT=80% ML=D41 Size=120$ NAKED!",
+      "entry_label": "",
+      "quality": 32
+    }
+  },
+  {
+    "ts": "2026-03-17T21:03:20.364716+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 32,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T21:03:20.466639+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=32 H=0.204 HL=28h uBT=80% ML=D41 Size=120$ NAKED!",
+      "entry_label": "",
+      "quality": 32
+    }
+  },
+  {
+    "ts": "2026-03-17T21:04:35.747757+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "manual",
+    "details": {
+      "quality_score": 32,
+      "min_quality": 65
+    }
+  },
+  {
+    "ts": "2026-03-17T21:04:35.841026+03:00",
+    "pair": "WLD/LIT",
+    "direction": "LONG",
+    "reason": "Quality gate: Q=32 < 65",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=32 H=0.204 HL=28h uBT=80% ML=D41 Size=120$ NAKED!",
+      "entry_label": "",
+      "quality": 32
+    }
+  },
+  {
+    "ts": "2026-03-17T21:26:02.073266+03:00",
+    "pair": "BNB/XMR",
+    "direction": "SHORT",
+    "reason": "✅ ОТКРЫТА",
+    "source": "auto_pending",
+    "details": {
+      "notes": "Q=65 H=0.066 HL=18h uBT=100% ML=B68 Size=120$ "
+    }
+  },
+  {
+    "ts": "2026-03-17T22:00:55.594001+03:00",
+    "pair": "ZEC/AAVE",
+    "direction": "SHORT",
+    "reason": "✅ ОТКРЫТА",
+    "source": "auto_pending",
+    "details": {
+      "notes": "AUTO | SIGNAL | 🟢 ВХОД ⚠️BT | Q=70 H=0.370 uBT=100% ML:C58"
+    }
+  }
+]

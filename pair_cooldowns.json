@@ -1,0 +1,354 @@
+{
+  "ETH/STETH": {
+    "session_pnl": -0.384,
+    "last_loss_time": "2026-03-08T12:27:21.359950+03:00",
+    "last_dir": "LONG",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ETH/BTC": {
+    "session_pnl": -0.405,
+    "last_loss_time": "2026-03-08T12:49:37.222788+03:00",
+    "last_dir": "LONG",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ADA/KITE": {
+    "session_pnl": 0.746,
+    "last_loss_time": null,
+    "last_dir": "LONG",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "SUI/TON": {
+    "session_pnl": -0.37,
+    "last_loss_time": "2026-03-08T13:35:39.034198+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ATOM/TIA": {
+    "session_pnl": -0.756,
+    "last_loss_time": "2026-03-08T13:37:48.293085+03:00",
+    "last_dir": "LONG",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "SOL/UNI": {
+    "session_pnl": 0.623,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "SUI/DOGS": {
+    "session_pnl": -0.273,
+    "last_loss_time": "2026-03-08T13:45:26.907571+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "TRUMP/LIT": {
+    "session_pnl": -2.053,
+    "last_loss_time": "2026-03-08T15:52:51.154683+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-08",
+    "sl_exit": true,
+    "consecutive_sl": 1
+  },
+  "AVAX/FIL": {
+    "session_pnl": 0.368,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "SOL/LTC": {
+    "session_pnl": -0.783,
+    "last_loss_time": "2026-03-16T20:55:23.772786+03:00",
+    "last_dir": "LONG",
+    "date": "2026-03-16",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "XRP/MLN": {
+    "session_pnl": 0.023,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "LINK/LTC": {
+    "session_pnl": -2.036,
+    "last_loss_time": "2026-03-16T06:32:16.283639+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-16",
+    "sl_exit": true,
+    "consecutive_sl": 1
+  },
+  "KITE/ADA": {
+    "session_pnl": -0.338,
+    "last_loss_time": "2026-03-08T18:34:13.478915+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "XRP/LIT": {
+    "session_pnl": 0.319,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-08",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ASTER/ATOM": {
+    "session_pnl": 0.033,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-09",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ASTER/LIT": {
+    "session_pnl": 0.157,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-09",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ETH/XMR": {
+    "session_pnl": 0.508,
+    "last_loss_time": "2026-03-16T11:44:31.169545+03:00",
+    "last_dir": "LONG",
+    "date": "2026-03-16",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "WLD/APT": {
+    "session_pnl": -0.315,
+    "last_loss_time": "2026-03-13T00:45:47.472370+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-13",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "WLD/MNT": {
+    "session_pnl": 1.799,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-10",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "XRP/ETC": {
+    "session_pnl": 1.685,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-17",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "DOT/UNI": {
+    "session_pnl": -5.678,
+    "last_loss_time": "2026-03-15T19:53:25.287370+03:00",
+    "last_dir": "LONG",
+    "date": "2026-03-15",
+    "sl_exit": true,
+    "consecutive_sl": 1
+  },
+  "WLD/FIL": {
+    "session_pnl": 2.631,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-12",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "WLD/CRV": {
+    "session_pnl": 0.446,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-13",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ZEC/AAVE": {
+    "session_pnl": -1.491,
+    "last_loss_time": "2026-03-18T07:05:48.361265+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-18",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "WLD/IP": {
+    "session_pnl": 0.414,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-11",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "AXS/INJ": {
+    "session_pnl": 2.121,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-11",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "AXS/ETC": {
+    "session_pnl": 1.128,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-14",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "WLD/ONDO": {
+    "session_pnl": 0.359,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-11",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "LTC/ETC": {
+    "session_pnl": 1.843,
+    "last_loss_time": null,
+    "last_dir": "LONG",
+    "date": "2026-03-14",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ETH/RIVER": {
+    "session_pnl": -2.531,
+    "last_loss_time": "2026-03-13T18:02:33.679528+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-13",
+    "sl_exit": true,
+    "consecutive_sl": 1
+  },
+  "SOL/BNB": {
+    "session_pnl": 0.662,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-14",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "AVAX/LINK": {
+    "session_pnl": -6.957,
+    "last_loss_time": "2026-03-15T19:48:52.739119+03:00",
+    "last_dir": "LONG",
+    "date": "2026-03-15",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ASTER/AZTEC": {
+    "session_pnl": -5.533,
+    "last_loss_time": "2026-03-15T19:53:33.265695+03:00",
+    "last_dir": "LONG",
+    "date": "2026-03-15",
+    "sl_exit": true,
+    "consecutive_sl": 1
+  },
+  "BNB/RIVER": {
+    "session_pnl": 21.335,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-15",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "FIL/ICP": {
+    "session_pnl": 8.704,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-15",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ICP/INJ": {
+    "session_pnl": 5.673,
+    "last_loss_time": null,
+    "last_dir": "LONG",
+    "date": "2026-03-15",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "SOL/XMR": {
+    "session_pnl": 1.255,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-17",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "LINK/AVAX": {
+    "session_pnl": -1.332,
+    "last_loss_time": "2026-03-16T03:49:42.548399+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-16",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "ETH/COIN": {
+    "session_pnl": 0.524,
+    "last_loss_time": "2026-03-16T09:57:35.822015+03:00",
+    "last_dir": "LONG",
+    "date": "2026-03-16",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "XAUT/ZEC": {
+    "session_pnl": 7.313,
+    "last_loss_time": null,
+    "last_dir": "SHORT",
+    "date": "2026-03-16",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "XAUT/BNB": {
+    "session_pnl": -0.867,
+    "last_loss_time": "2026-03-16T23:27:36.069584+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-16",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "XAUT/DASH": {
+    "session_pnl": -2.029,
+    "last_loss_time": "2026-03-17T07:30:42.817165+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-17",
+    "sl_exit": true,
+    "consecutive_sl": 1
+  },
+  "XAUT/XMR": {
+    "session_pnl": -1.141,
+    "last_loss_time": "2026-03-17T07:32:50.870121+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-17",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  },
+  "BNB/XMR": {
+    "session_pnl": -1.165,
+    "last_loss_time": "2026-03-18T14:22:17.532517+03:00",
+    "last_dir": "SHORT",
+    "date": "2026-03-18",
+    "sl_exit": false,
+    "consecutive_sl": 0
+  }
+}

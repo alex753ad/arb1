@@ -1,0 +1,299 @@
+{"ts": "2026-03-12T15:37:06.874574+03:00", "pair": "WLD/CRV", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-12T16:20:04.389724+03:00", "pair": "WLD/CRV", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-12T16:45:32.372924+03:00", "pair": "WLD/CRV", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-12T17:46:23.277798+03:00", "pair": "WLD/TRUMP", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-12T18:16:35.516578+03:00", "pair": "WLD/TRUMP", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-12T19:05:44.671829+03:00", "pair": "ETH/BNB", "direction": "SHORT", "source": "auto_monitor", "reason": "🚫 PAIR MEMORY BLOCK: ETH/BNB — 2 сделок, 0 побед, total=-2.54%", "category": "pair_memory"}
+{"ts": "2026-03-12T19:05:44.718282+03:00", "pair": "WLD/TRUMP", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-12T21:14:33.558885+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-12T21:30:41.041899+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-12T22:46:26.769043+03:00", "pair": "WLD/CRV", "direction": "SHORT", "source": "auto_monitor", "reason": "WLD в 2 позициях", "category": "other"}
+{"ts": "2026-03-12T22:46:26.799631+03:00", "pair": "WLD/APT", "direction": "SHORT", "source": "auto_monitor", "reason": "WLD в 2 позициях", "category": "other"}
+{"ts": "2026-03-12T22:46:26.806519+03:00", "pair": "WLD/IP", "direction": "SHORT", "source": "auto_monitor", "reason": "WLD в 2 позициях", "category": "other"}
+{"ts": "2026-03-12T23:00:58.163404+03:00", "pair": "WLD/CRV", "direction": "SHORT", "source": "auto_monitor", "reason": "WLD в 2 позициях", "category": "other"}
+{"ts": "2026-03-13T03:41:12.707866+03:00", "pair": "AVAX/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T03:55:10.742642+03:00", "pair": "LINK/AVAX", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T03:55:10.791509+03:00", "pair": "SOL/BNB", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T04:09:14.468469+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T04:09:14.501929+03:00", "pair": "LINK/AVAX", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T04:24:29.814682+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T04:24:29.830821+03:00", "pair": "LINK/AVAX", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T04:24:29.833647+03:00", "pair": "BNB/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T04:39:47.451791+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T04:39:47.460768+03:00", "pair": "AVAX/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T04:54:58.192039+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T04:54:58.201397+03:00", "pair": "SOL/BNB", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T04:54:58.202410+03:00", "pair": "AVAX/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T05:10:04.800599+03:00", "pair": "BNB/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T05:10:04.819752+03:00", "pair": "AVAX/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T05:26:04.149102+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T05:26:04.163361+03:00", "pair": "BNB/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T05:41:34.005946+03:00", "pair": "BNB/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T05:56:50.700220+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T06:12:32.567477+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T06:12:32.614185+03:00", "pair": "AVAX/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T06:28:00.315293+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T06:28:00.330679+03:00", "pair": "AVAX/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T06:42:19.544391+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T06:42:19.545514+03:00", "pair": "AVAX/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T06:56:29.696477+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T06:56:29.750745+03:00", "pair": "AVAX/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T07:10:57.713349+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T07:10:57.722191+03:00", "pair": "AVAX/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T09:52:41.043587+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T10:41:50.887896+03:00", "pair": "AXS/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "ETC в 2 позициях", "category": "other"}
+{"ts": "2026-03-13T10:41:50.902525+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T10:57:49.461688+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T11:46:59.010476+03:00", "pair": "XRP/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T12:03:21.016928+03:00", "pair": "XRP/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T12:19:57.036294+03:00", "pair": "XRP/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T12:37:02.294441+03:00", "pair": "XRP/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T12:53:56.420741+03:00", "pair": "ZEC/AAVE", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T12:53:56.505405+03:00", "pair": "AXS/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "ETC в 2 позициях", "category": "other"}
+{"ts": "2026-03-13T13:11:35.681568+03:00", "pair": "AXS/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "ETC в 2 позициях", "category": "other"}
+{"ts": "2026-03-13T13:29:20.240663+03:00", "pair": "AXS/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "ETC в 2 позициях", "category": "other"}
+{"ts": "2026-03-13T13:29:20.262559+03:00", "pair": "XRP/TRUMP", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-13T22:27:19.221699+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-14T01:36:24.692166+03:00", "pair": "AXS/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (ETC)", "category": "coin_conflict"}
+{"ts": "2026-03-14T01:49:15.501670+03:00", "pair": "AXS/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (ETC)", "category": "coin_conflict"}
+{"ts": "2026-03-14T02:02:11.188113+03:00", "pair": "AXS/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (ETC)", "category": "coin_conflict"}
+{"ts": "2026-03-14T06:49:27.890061+03:00", "pair": "LTC/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-14T09:48:43.041295+03:00", "pair": "XRP/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-14T09:48:43.048922+03:00", "pair": "ETC/DASH", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-14T10:02:34.242393+03:00", "pair": "XRP/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-14T10:02:34.244402+03:00", "pair": "ETC/DASH", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-14T10:16:27.765915+03:00", "pair": "ETC/DASH", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-15T22:37:44.168849+03:00", "pair": "ETH/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-15T22:57:21.112606+03:00", "pair": "ETH/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-15T23:09:06.381372+03:00", "pair": "ETH/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T00:58:32.669894+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T00:58:32.672389+03:00", "pair": "BNB/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T01:14:06.516211+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T01:14:06.517352+03:00", "pair": "BNB/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T01:45:25.679881+03:00", "pair": "ETH/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (ETH)", "category": "coin_conflict"}
+{"ts": "2026-03-16T01:45:25.681498+03:00", "pair": "SOL/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "cooldown 12ч (12.0ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T01:45:25.682976+03:00", "pair": "BNB/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T02:00:21.953626+03:00", "pair": "ETH/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (ETH)", "category": "coin_conflict"}
+{"ts": "2026-03-16T02:00:21.955580+03:00", "pair": "AAVE/DASH", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T02:00:21.956794+03:00", "pair": "ETC/DASH", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T02:00:21.957710+03:00", "pair": "LTC/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (LTC)", "category": "coin_conflict"}
+{"ts": "2026-03-16T02:14:56.969485+03:00", "pair": "ETH/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (ETH)", "category": "coin_conflict"}
+{"ts": "2026-03-16T02:14:56.972372+03:00", "pair": "LTC/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (LTC)", "category": "coin_conflict"}
+{"ts": "2026-03-16T02:29:45.315434+03:00", "pair": "AAVE/DASH", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T02:29:45.320450+03:00", "pair": "ETC/DASH", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T02:29:45.326785+03:00", "pair": "LTC/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (LTC)", "category": "coin_conflict"}
+{"ts": "2026-03-16T02:44:37.283630+03:00", "pair": "ETH/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (ETH)", "category": "coin_conflict"}
+{"ts": "2026-03-16T02:44:37.285670+03:00", "pair": "SOL/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "cooldown 12ч (11.0ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T02:44:37.286815+03:00", "pair": "LTC/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "LTC в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T02:59:35.094863+03:00", "pair": "LINK/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "LINK в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T02:59:35.096766+03:00", "pair": "ETH/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "coin conflict (ETH)", "category": "coin_conflict"}
+{"ts": "2026-03-16T02:59:35.098532+03:00", "pair": "SOL/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "cooldown 12ч (10.8ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T02:59:35.099949+03:00", "pair": "ETC/DASH", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T02:59:35.101454+03:00", "pair": "LTC/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "LTC в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T03:29:32.693486+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "LTC в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T03:44:23.172342+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T03:44:23.173937+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T03:59:52.181223+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "cooldown 12ч (9.7ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T03:59:52.195618+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T03:59:52.200480+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T03:59:52.207605+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T04:14:40.934741+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "cooldown 12ч (9.5ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T04:14:40.973637+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T04:30:07.869094+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "cooldown 12ч (9.2ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T04:30:07.876151+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T04:30:07.883392+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T04:45:35.400118+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T04:45:35.422767+03:00", "pair": "XRP/NEO", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T04:45:35.987271+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T04:45:36.328750+03:00", "pair": "XAUT/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T04:45:36.439463+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T05:01:07.321495+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "cooldown 12ч (8.7ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T05:01:07.323394+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T05:01:07.324920+03:00", "pair": "XRP/NEO", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T05:01:07.325927+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T05:01:07.326853+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T05:16:03.113238+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "cooldown 12ч (8.5ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T05:16:03.122901+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T05:16:03.127628+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T05:16:03.137494+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T05:31:11.210209+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "cooldown 12ч (8.2ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T05:31:11.215125+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T05:31:11.220266+03:00", "pair": "XRP/NEO", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T05:31:11.230310+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T05:46:05.761614+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "cooldown 12ч (8.0ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T05:46:05.765704+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T05:46:05.768508+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "LTC в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T06:01:12.409382+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "cooldown 12ч (7.7ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T06:01:12.416301+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T06:01:12.424912+03:00", "pair": "XRP/NEO", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T06:01:12.430925+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T06:01:12.436632+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "LTC в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T06:16:08.602518+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "cooldown 12ч (7.5ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T06:16:08.604445+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T06:16:08.606219+03:00", "pair": "XRP/NEO", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T06:16:08.607803+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T06:16:08.608676+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T06:16:08.609804+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "LTC в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T06:31:13.964427+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "cooldown 12ч (7.2ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-16T06:31:13.968287+03:00", "pair": "ETH/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "ETH в 2 позициях", "category": "other"}
+{"ts": "2026-03-16T06:31:13.971036+03:00", "pair": "XRP/NEO", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T06:31:13.973683+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T06:31:13.979011+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T06:46:29.897601+03:00", "pair": "LINK/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T06:46:29.898728+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T06:46:29.899690+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T07:01:49.403976+03:00", "pair": "LINK/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T07:01:49.405227+03:00", "pair": "ETH/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T07:32:31.934024+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T07:32:31.937340+03:00", "pair": "LTC/DASH", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T07:48:07.784296+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T07:48:07.788773+03:00", "pair": "LTC/DASH", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T08:03:39.310513+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T08:18:43.553822+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T08:18:43.571646+03:00", "pair": "WLD/FIL", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T08:34:08.747254+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T08:34:08.749978+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.76% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T08:34:08.750972+03:00", "pair": "XAUT/ZEC", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T09:23:02.556002+03:00", "pair": "XRP/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.74% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T09:36:54.024023+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.74% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T09:36:54.026474+03:00", "pair": "XRP/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.74% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T09:50:40.992104+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.74% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T09:50:40.993338+03:00", "pair": "XRP/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.74% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T10:07:42.532761+03:00", "pair": "XAUT/ZEC", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T10:07:42.548172+03:00", "pair": "XRP/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T10:22:13.278932+03:00", "pair": "XRP/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T10:38:53.655889+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T10:38:53.713689+03:00", "pair": "LTC/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T10:38:53.714619+03:00", "pair": "XAUT/ZEC", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T10:57:34.279354+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T10:57:34.280811+03:00", "pair": "SOL/BNB", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T10:57:34.281726+03:00", "pair": "LTC/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T10:57:34.284198+03:00", "pair": "XAUT/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T10:57:34.287311+03:00", "pair": "PAXG/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T10:57:34.288233+03:00", "pair": "XRP/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T11:38:05.642541+03:00", "pair": "XAUT/ZEC", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T11:53:26.672054+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T12:08:43.490401+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T12:08:43.499811+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T12:08:43.500716+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T12:54:18.161103+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T12:54:18.173208+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T13:10:32.753589+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T13:10:32.755321+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T13:10:32.756192+03:00", "pair": "XAUT/ZEC", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T13:10:32.756978+03:00", "pair": "XAUT/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T13:26:02.044776+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T13:26:02.046079+03:00", "pair": "XAUT/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T13:38:06.724476+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T13:38:06.725572+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T13:49:58.091194+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T13:49:58.093154+03:00", "pair": "XAUT/ZEC", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T13:49:58.094171+03:00", "pair": "XAUT/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T14:02:10.938174+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T14:02:10.939391+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T14:02:10.940375+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T14:14:30.778309+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T14:14:30.779605+03:00", "pair": "LTC/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T14:27:02.798351+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T14:27:02.806723+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T14:27:02.807782+03:00", "pair": "XAUT/ZEC", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T14:40:26.524939+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T14:53:50.486839+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T15:09:56.700128+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T15:09:56.715325+03:00", "pair": "XAUT/ZEC", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T15:26:17.543681+03:00", "pair": "XAUT/BNB", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T15:43:04.343848+03:00", "pair": "XAUT/ZEC", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-16T15:43:04.395139+03:00", "pair": "XAUT/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T16:01:18.975653+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T16:01:19.032294+03:00", "pair": "XAUT/ZEC", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-16T16:01:19.086262+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T16:16:43.863527+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T16:16:43.877016+03:00", "pair": "XAUT/ZEC", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-16T16:16:43.878683+03:00", "pair": "XAUT/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T16:30:54.810208+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T16:30:54.811554+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T16:44:34.858383+03:00", "pair": "XAUT/ZEC", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-16T16:44:34.860244+03:00", "pair": "XAUT/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T16:44:34.861717+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T16:57:33.973101+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T16:57:33.974437+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T17:11:24.902543+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T17:11:24.941062+03:00", "pair": "XAUT/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T17:11:24.948868+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T17:24:29.299368+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T17:24:29.300435+03:00", "pair": "XAUT/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T17:24:29.301281+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T17:36:47.807696+03:00", "pair": "XAUT/ZEC", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-16T17:36:47.809419+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T17:49:28.300019+03:00", "pair": "SOL/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T17:49:28.306697+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T17:49:28.311495+03:00", "pair": "XAUT/ZEC", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-16T18:02:15.644184+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T18:02:15.646180+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T18:14:56.318601+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T18:14:56.319886+03:00", "pair": "LTC/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T18:27:53.310528+03:00", "pair": "LINK/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T18:27:53.312790+03:00", "pair": "XRP/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T18:49:21.470627+03:00", "pair": "XRP/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T19:02:13.641104+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T19:02:13.642476+03:00", "pair": "BNB/XMR", "direction": "LONG", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T20:19:06.071416+03:00", "pair": "XAUT/BCH", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-16T20:36:19.932323+03:00", "pair": "ZEC/AAVE", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -6.73% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T20:36:19.947570+03:00", "pair": "XAUT/BCH", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-16T21:00:50.635067+03:00", "pair": "WLD/APT", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -7.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T21:15:09.320438+03:00", "pair": "ZEC/AAVE", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -7.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T21:15:09.340886+03:00", "pair": "XAUT/BCH", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-16T21:28:18.588986+03:00", "pair": "ZEC/AAVE", "direction": "SHORT", "source": "auto_monitor", "reason": "🛑 ДНЕВНОЙ ЛИМИТ: -7.82% (лимит -5.0%)", "category": "daily_limit"}
+{"ts": "2026-03-16T21:28:18.590942+03:00", "pair": "XAUT/BCH", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-16T23:05:41.769515+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T23:18:51.225332+03:00", "pair": "XAUT/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T23:31:39.666011+03:00", "pair": "XAUT/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T23:31:39.667143+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T23:44:41.380965+03:00", "pair": "SOL/BNB", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-16T23:44:41.382865+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-16T23:58:59.405400+03:00", "pair": "XAUT/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-16T23:58:59.425744+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-17T00:13:35.990153+03:00", "pair": "PAXG/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО)", "category": "entry_label"}
+{"ts": "2026-03-17T00:26:58.870425+03:00", "pair": "SOL/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "XMR в 2 позициях", "category": "other"}
+{"ts": "2026-03-17T00:40:12.161196+03:00", "pair": "SOL/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "XMR в 2 позициях", "category": "other"}
+{"ts": "2026-03-17T00:53:48.231171+03:00", "pair": "SOL/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "XMR в 2 позициях", "category": "other"}
+{"ts": "2026-03-17T01:09:04.245113+03:00", "pair": "SOL/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "XMR в 2 позициях", "category": "other"}
+{"ts": "2026-03-17T01:23:46.369352+03:00", "pair": "SOL/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "XMR в 2 позициях", "category": "other"}
+{"ts": "2026-03-17T01:37:55.953609+03:00", "pair": "ZEC/AAVE", "direction": "SHORT", "source": "auto_monitor", "reason": "cooldown 12ч (11.8ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-17T01:37:55.955593+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-17T01:52:05.655851+03:00", "pair": "ZEC/AAVE", "direction": "SHORT", "source": "auto_monitor", "reason": "cooldown 12ч (11.6ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-17T01:52:05.656927+03:00", "pair": "SOL/LTC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-17T02:06:06.833543+03:00", "pair": "ZEC/AAVE", "direction": "SHORT", "source": "auto_monitor", "reason": "cooldown 12ч (11.4ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-17T02:19:58.781897+03:00", "pair": "ZEC/AAVE", "direction": "SHORT", "source": "auto_monitor", "reason": "cooldown 12ч (11.1ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-17T02:47:36.536256+03:00", "pair": "ZEC/AAVE", "direction": "SHORT", "source": "auto_monitor", "reason": "cooldown 12ч (10.7ч осталось)", "category": "cooldown"}
+{"ts": "2026-03-17T03:01:32.551266+03:00", "pair": "SOL/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "XMR в 2 позициях", "category": "other"}
+{"ts": "2026-03-17T03:42:42.350312+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T03:56:29.677989+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T04:10:07.263943+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T04:10:07.265247+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T04:23:37.398174+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T04:23:37.399339+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T04:52:04.552056+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T05:06:02.926113+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T05:19:50.766974+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T05:19:50.768317+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T05:33:18.879397+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T05:46:32.958934+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T05:46:32.960947+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T05:59:57.856875+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T05:59:57.858768+03:00", "pair": "XRP/ETC", "direction": "SHORT", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-17T06:13:15.652075+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T06:13:15.653885+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "DEEP_RALLY blocks LONG", "category": "rally"}
+{"ts": "2026-03-17T06:40:52.637787+03:00", "pair": "XAUT/DASH", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-17T06:55:30.712323+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-17T06:55:30.713603+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-17T06:55:30.714625+03:00", "pair": "XAUT/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-17T07:10:16.403836+03:00", "pair": "SOL/LTC", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-17T07:10:16.405003+03:00", "pair": "SOL/BNB", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-17T07:10:16.405877+03:00", "pair": "XAUT/XMR", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-17T08:26:00.984274+03:00", "pair": "XRP/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-17T09:33:14.145540+03:00", "pair": "XRP/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-17T09:46:22.922458+03:00", "pair": "XRP/ETC", "direction": "LONG", "source": "auto_monitor", "reason": "BT FAIL", "category": "bt"}
+{"ts": "2026-03-18T14:22:19.726033+03:00", "pair": "LINK/ENSO", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
+{"ts": "2026-03-18T14:22:19.737112+03:00", "pair": "AXS/CRV", "direction": "SHORT", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ⚠️BT)", "category": "entry_label"}
+{"ts": "2026-03-18T14:53:51.880449+03:00", "pair": "LINK/ENSO", "direction": "LONG", "source": "auto_monitor", "reason": "entry_filter (🟡 УСЛОВНО ❌BT)", "category": "entry_label"}
